@@ -1,0 +1,26 @@
+1)Difference between display and show??
+Display is databricks native while show is databricks and spark native,
+output for display is in columnar format while shoe gives us output is txt format with first 20 result,
+Show is part of spark score API
+
+2)What is difference between StuctType and SctructFeild??
+
+3)Difference between permissive, DropMalformed, FailFast??
+
+4)Difference between .option(Schema,myschema) and .schema(myschema)??
+
+5)How to handle corrupt data?? badrecordspath always file is in json..
+
+6)Do Gen Ai and Ai as a threat to data engineering Career??
+--> Your role not getting smaller, it is getting bigger, Gen AI needs clean data, orchesterated pipeline,
+LLm are just one part of the system, and without good data even the best model fail,
+And the people who has more understanding to both this will be standing out naturally...
+
+7)What are the use cases you have done databricks?
+
+8)How will you handle Real time and streaming data in databricks?
+
+9)Parquet File is used Olap or OLTP??
+Why Oltp??
+
+10) what is delta table??
